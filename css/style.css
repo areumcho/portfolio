@@ -76,6 +76,15 @@ padding-top: 5%;
     padding-bottom: 5%;
 }
 
+.container.social{
+    text-align: center;
+}
+
+.social-media {
+    width: 100px;
+    height: 100px;
+}
+
 
 .col {
     
@@ -92,6 +101,7 @@ footer p {
 }
 
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
 
 
 
